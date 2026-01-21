@@ -63,12 +63,12 @@ export default function NotFound() {
           className="flex flex-col sm:flex-row gap-4 justify-center"
         >
           <Link href="/">
-            <BrutalistButton size="lg" variant="primary">
+            <BrutalistButton variant="primary">
               BACK_TO_HOME →
             </BrutalistButton>
           </Link>
           <Link href="/#contact">
-            <BrutalistButton size="lg" variant="outline">
+            <BrutalistButton variant="outline">
               CONTACT_ME
             </BrutalistButton>
           </Link>
