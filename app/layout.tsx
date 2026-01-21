@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description: "Portfolio d'Adrien Tranchant, étudiant passionné par l'intelligence artificielle et le deep learning",
   keywords: ["Adrien Tranchant", "Intelligence Artificielle", "Deep Learning", "Machine Learning", "Portfolio", "IA"],
   authors: [{ name: "Adrien Tranchant" }],
+  icons: {
+    icon: "/favicon.svg",
+  },
   openGraph: {
     title: "Adrien Tranchant - Portfolio IA",
     description: "Portfolio d'Adrien Tranchant, étudiant passionné par l'intelligence artificielle",
